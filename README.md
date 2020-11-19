@@ -1,0 +1,1 @@
+- `dubbo-consumer` 工程作为client调用`dubbo-provider`工程发布的服务，`dubbo-provider` 工程地址为：
